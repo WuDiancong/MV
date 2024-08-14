@@ -1,3 +1,4 @@
 datasetUsed/*
 !datasetUsed/test
 !datasetUsed/test/healthy
+!datasetUsed/test/unhealthy
