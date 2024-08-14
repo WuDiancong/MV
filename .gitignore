@@ -1,2 +1,3 @@
-datasetUsed/* 
-!datasetUsed/.gitkeep 
+datasetUsed/*
+!datasetUsed/test
+!datasetUsed/test/healthy
